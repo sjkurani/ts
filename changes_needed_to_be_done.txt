@@ -1,0 +1,2 @@
+Image upload and modify
+map update - pick lat and lng while loading
